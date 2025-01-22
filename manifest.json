@@ -4,7 +4,10 @@
   "description": "Show B\"H on each page",
   "version": "1.0",
   "icons": {
-    "16": "icon.png"
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
   },
 
   "content_scripts": [
